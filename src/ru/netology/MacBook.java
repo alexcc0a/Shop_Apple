@@ -1,6 +1,6 @@
 package ru.netology;
 
-public class MacBook extends Product implements Food {
+public class MacBook extends Product implements Electronics {
     private final String name = "MacBook";
     private final int price = 129000;
 

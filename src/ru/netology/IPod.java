@@ -1,6 +1,6 @@
 package ru.netology;
 
-public class IPod extends Product implements Food {
+public class IPod extends Product implements Electronics {
     private final String name = "iPod";
     private final int price = 16990;
 

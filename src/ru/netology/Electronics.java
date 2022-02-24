@@ -1,5 +1,5 @@
 package ru.netology;
 
-public interface Food {
+public interface Electronics {
     void eat();
 }
